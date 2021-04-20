@@ -1,0 +1,20 @@
+C:\Users\north\source\repos\Game library\Game library\bin\Debug\Game library.exe.config
+C:\Users\north\source\repos\Game library\Game library\bin\Debug\Game library.exe
+C:\Users\north\source\repos\Game library\Game library\bin\Debug\Game library.pdb
+C:\Users\north\source\repos\Game library\Game library\obj\Debug\Game library.csprojAssemblyReference.cache
+C:\Users\north\source\repos\Game library\Game library\obj\Debug\Game_library.Form1.resources
+C:\Users\north\source\repos\Game library\Game library\obj\Debug\Game_library.Properties.Resources.resources
+C:\Users\north\source\repos\Game library\Game library\obj\Debug\Game library.csproj.GenerateResource.cache
+C:\Users\north\source\repos\Game library\Game library\obj\Debug\Game library.csproj.CoreCompileInputs.cache
+C:\Users\north\source\repos\Game library\Game library\obj\Debug\Game library.exe
+C:\Users\north\source\repos\Game library\Game library\obj\Debug\Game library.pdb
+C:\Users\north\Desktop\assigments for TAFE\C#\Game library\Game library\bin\Debug\Game library.exe.config
+C:\Users\north\Desktop\assigments for TAFE\C#\Game library\Game library\bin\Debug\Game library.exe
+C:\Users\north\Desktop\assigments for TAFE\C#\Game library\Game library\bin\Debug\Game library.pdb
+C:\Users\north\Desktop\assigments for TAFE\C#\Game library\Game library\obj\Debug\Game library.csprojAssemblyReference.cache
+C:\Users\north\Desktop\assigments for TAFE\C#\Game library\Game library\obj\Debug\Game_library.Form1.resources
+C:\Users\north\Desktop\assigments for TAFE\C#\Game library\Game library\obj\Debug\Game_library.Properties.Resources.resources
+C:\Users\north\Desktop\assigments for TAFE\C#\Game library\Game library\obj\Debug\Game library.csproj.GenerateResource.cache
+C:\Users\north\Desktop\assigments for TAFE\C#\Game library\Game library\obj\Debug\Game library.csproj.CoreCompileInputs.cache
+C:\Users\north\Desktop\assigments for TAFE\C#\Game library\Game library\obj\Debug\Game library.exe
+C:\Users\north\Desktop\assigments for TAFE\C#\Game library\Game library\obj\Debug\Game library.pdb
